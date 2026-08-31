@@ -1,4 +1,4 @@
-# Claude Note Analyzer
+# NoteTaker/Analyzer
 
 A lightweight note-taking and note-analysis system designed for use with Claude.
 
