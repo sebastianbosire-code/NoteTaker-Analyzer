@@ -1,20 +1,24 @@
-# Style Reference Rule
+# Style Reference Example Rule
 
-The images in this folder are examples of the preferred note-taking style only.
+Screenshots or examples supplied as preferred notes are **style references only**.
 
-Use them to learn:
+They demonstrate preferences such as:
 
-- layout
-- spacing
-- heading structure
-- bullet structure
-- use of tables
-- use of diagrams
-- visual hierarchy
-- emphasis
-- amount of explanation
-- overall readability
+- large clear headings
+- numbered sections
+- short explanations
+- bold key terms
+- bullet lists
+- tables for comparisons
+- arrows for relationships
+- diagrams when helpful
+- key insight sections
+- strong visual hierarchy
+- generous spacing
+- simple college-level language
 
-Do not use the academic content shown in these images as source material.
+They are **not** source material.
 
-The final notes should copy the presentation style, not the subject matter.
+Do not reuse academic facts, examples, terminology, frameworks, or subjects from those references unless the same content appears in the student's actual course material.
+
+The final notes should imitate the **presentation style**, not the **academic content**.
