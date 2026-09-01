@@ -9,6 +9,8 @@ Always follow:
 - `NOTE_STYLE.md`
 - `ANALYSIS_RULES.md`
 - `TEST_PRIORITY.md`
+- `OUTPUT_FORMAT.md`
+- `STUDY_GUIDE_RULES.md`
 
 ## Main Goal
 
@@ -108,5 +110,5 @@ Do the analysis first, then return the finished notes.
 
 Do not narrate your internal process unless the student asks.
 
-The normal response should be the completed notes.
+The normal response is the completed note files, delivered per OUTPUT_FORMAT.md, plus a brief summary in chat of anything flagged during analysis
 
